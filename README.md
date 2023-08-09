@@ -1,4 +1,4 @@
-<p align ="center"><img src = "https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt = "vinitsingh-13 /> </p>
+<p align ="center"><img src = "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt = "vinitsingh-13 /> </p>
                      
 <h1 align="center">Hi 👋, I'm Vinit Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
