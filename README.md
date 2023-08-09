@@ -1,4 +1,4 @@
-<p align ="center"><img src = "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt = "vinitsingh-13 /> </p>
+<p align ="center"><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw0So6MTdVA-K9X0TFUz2yQR&ust=1691674368122000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDS5avYz4ADFQAAAAAdAAAAABAD" alt = "vinitsingh-13 /> </p>
 <h1 align="center">Hi 👋, I'm Vinit Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
