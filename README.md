@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitsingh-13" alt="vinitsingh-13" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoft Clone**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React, Javascript**
 
