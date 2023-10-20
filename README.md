@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinitsingh-13&show_icons=true&locale=en" alt="vinitsingh-13" /></p>
 
-
+[![An image of @vinitsingh13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinitsingh13)](https://holopin.io/@vinitsingh13)
